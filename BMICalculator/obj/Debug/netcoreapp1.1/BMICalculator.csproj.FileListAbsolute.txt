@@ -1,0 +1,4 @@
+C:\Users\Tymoteusz.Wisniewski\Desktop\bmi-master\bmi-master\BMICalculator\obj\Debug\netcoreapp1.1\BMICalculator.csprojResolveAssemblyReference.cache
+C:\Users\Tymoteusz.Wisniewski\Desktop\bmi-master\bmi-master\BMICalculator\obj\Debug\netcoreapp1.1\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tymoteusz.Wisniewski\Desktop\bmi-master\bmi-master\BMICalculator\obj\Debug\netcoreapp1.1\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Tymoteusz.Wisniewski\Desktop\bmi-master\bmi-master\BMICalculator\obj\Debug\netcoreapp1.1\BMICalculator.AssemblyInfo.cs
